@@ -7,6 +7,7 @@ RUN the code:
 Run "run_Demo.m" and select the image that you want to enhace it.
 
 If you use the codes for your research or academic purposes, please cite our paper:
+
 Lepcha, D. C., Goyal, B., Dogra, A., Wang, S. H., & Chohan, J. S. (2022). Medical image enhancement strategy based on morphologically processing of residuals using a special kernel. Expert Systems, e13207.
 
 If you have any questions, please feel free to contact me: chyophel@gmail.com
